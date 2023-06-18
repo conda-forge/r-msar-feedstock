@@ -1,11 +1,11 @@
-About r-msar
-============
+About r-msar-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-msar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=msaR
 
 Package license: BSL-1.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-msar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Visualizes multiple sequence alignments dynamically within the Shiny web application framework.
 
